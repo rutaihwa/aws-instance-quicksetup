@@ -5,4 +5,5 @@ source ~/.bashrc
 
 sudo apt update && sudo apt upgrade -y
 
-sudo apt install -y emacs secure-delete htop
+sudo apt install -y emacs secure-delete htop build-essential
+
